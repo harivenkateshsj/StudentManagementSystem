@@ -26,7 +26,7 @@ Exception Handling
 
 ##Author 
 	I am Harivenkatesh S J having 6+ years of experience in Automation testing for UI-API-Mobile
-	[LinbkedIn]https://www.linkedin.com/in/sjhari/
+	[LinkedIn](https://www.linkedin.com/in/sjhari/)
 	
 ##Tech Stack
 	**Programming Language** Java 11 
